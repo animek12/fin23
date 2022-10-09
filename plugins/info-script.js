@@ -8,9 +8,9 @@ let str = `*https://youtu.be/1SQmGPpd0kU*`
 let wibu = `https://hadi-api.herokuapp.com/api/loli` 
 let thumb = await(await fetch(wibu)).buffer()
 conn.sendButtonDoc(m.chat, str, wm,'ᴏᴋ','Bilek', m, { contextInfo: { externalAdReply: { showAdAttribution: true,
-    mediaUrl: "https://Instagram.com/Jarotr_",
-    title: 'Oscar-MultiDevice',
-    body: 'Jangan Dijual ngentod Jangan Lupa Suscribe',
+    mediaUrl: "https://Instagram.com/al_vin.233",
+    title: 'FIN-MultiDevice',
+    body: 'https://saweria.co/Rimuru233',
     thumbnail: thumb,
     sourceUrl: sig
   }
